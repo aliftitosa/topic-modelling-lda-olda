@@ -1,6 +1,6 @@
-# Twitter Topic Modeling using LDA (Online Variational Inference)
+# Twitter Topic Modeling using LDA (Latent Dirichlet Allocation) & OLDA (Online Latent Dirichlet Allocation)
 
-This project is part of my undergraduate thesis at Universitas Islam Negeri Syarif Hidayatullah Jakarta. It uses topic modeling with **Online Variational Inference Latent Dirichlet Allocation (LDA)** to discover the most discussed topics on Twitter using specific keywords.
+This project is part of my undergraduate thesis at Universitas Islam Negeri Syarif Hidayatullah Jakarta. It uses topic modeling with **Online Latent Dirichlet Allocation (OLDA)** to discover the most discussed topics on Twitter using specific keywords.
 
 ## 👨‍💻 Author
 **Alif Tito Shiddiq ArRosyid**
@@ -9,7 +9,7 @@ This project is part of my undergraduate thesis at Universitas Islam Negeri Syar
 
 ## 📌 Project Description
 
-This Python project collects Twitter data using the Twitter API, preprocesses the text, and performs topic modeling using the **LDA** algorithm from the Gensim library.
+This Python project collects Twitter data using the Twitter API, preprocesses the text, and performs topic modeling using the **LDA** & **OLDA** algorithm from the Gensim library.
 
 **Case Study:**  
 Topic analysis on tweets containing the keyword **"pemerintah"** (Indonesian for "government").
